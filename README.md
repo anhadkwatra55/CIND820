@@ -28,4 +28,4 @@ This repository contains the code and data for the Salary Prediction Project. Th
 ## Usage
 
 1. Clone the repository:
-   "git clone "
+   "git clone https://github.com/anhadkwatra55/CIND820.git"
